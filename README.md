@@ -1,6 +1,5 @@
-I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to provide real-time insights.
-  - 🌱 I’m skilled in Data Analytics, Data Quality, Data Visualization and programming.
-  - 👯 I’m currently open to remote and on-site permanent roles that involves transformation of large data to compile the data into actionable insights to allow    
-        evidence-based decision making.
+A data analyst passionate about leveraging data to drive business decisions and committed to continuous learning and professional growth.
+  - 🌱 I've worked on projects involving data cleaaning, statistical analysis, data Visualization and reporting.
+  - 👯 I’m looking to collaborate on data analysis jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions.
 
 
